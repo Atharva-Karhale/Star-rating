@@ -1,0 +1,80 @@
+{
+    "accordion_items": [
+      {
+        "id": 1,
+        "question": "Why was the developer angry at the compiler?",
+        "answer": "Because it kept giving him null points!"
+      },
+      {
+        "id": 2,
+        "question": "Why do programmers prefer dark mode?",
+        "answer": "Because light attracts bugs!"
+      },
+      {
+        "id": 3,
+        "question": "Why did the developer go broke?",
+        "answer": "Because he used up all his cache!"
+      },
+      {
+        "id": 4,
+        "question": "Why was the JavaScript developer sad?",
+        "answer": "Because he didn't know how to 'null' his emotions!"
+      },
+      {
+        "id": 5,
+        "question": "Why did the database administrator leave his wife?",
+        "answer": "She had one too many triggers!"
+      },
+      {
+        "id": 6,
+        "question": "Why did the CSS developer go to therapy?",
+        "answer": "Because his styles were not aligned!"
+      },
+      {
+        "id": 7,
+        "question": "Why did the QA engineer go to jail?",
+        "answer": "Because he was caught in a loop hole!"
+      },
+      {
+        "id": 8,
+        "question": "Why did the developer go to the beach?",
+        "answer": "To surf the net!"
+      },
+      {
+        "id": 9,
+        "question": "Why was the software developer afraid of the dark?",
+        "answer": "Because he didn't know how to handle the light mode!"
+      },
+      {
+        "id": 10,
+        "question": "Why did the C# developer get locked out of his house?",
+        "answer": "Because he lost his keys with no reference!"
+      },
+      {
+        "id": 11,
+        "question": "Why did the programmer always mix up Halloween and Christmas?",
+        "answer": "Because Oct 31 equals Dec 25!"
+      },
+      {
+        "id": 12,
+        "question": "Why did the programmer hang his phone on the wall?",
+        "answer": "Because he wanted to make a mobile website!"
+      },
+      {
+        "id": 13,
+        "question": "Why did the programmer quit his job?",
+        "answer": "Because he didn't get arrays!"
+      },
+      {
+        "id": 14,
+        "question": "Why was the code like a baby?",
+        "answer": "Because it had a lot of bugs to be fixed!"
+      },
+      {
+        "id": 15,
+        "question": "Why was the developer always cold?",
+        "answer": "Because he left his Windows open!"
+      }
+    ]
+  }
+  
