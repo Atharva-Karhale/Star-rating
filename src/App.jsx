@@ -1,14 +1,14 @@
 import './App.css'
-import ExpandCard from "./components/ExpandCard"
+import RandomColor from './components'
+
 
 
 function App() {
 
-
-
   return (
-    <div className=' bg-[#1a1a1a] p-4'>
-      <ExpandCard/>
+     
+    <div>
+      <RandomColor/>
     </div>
   )
 }
