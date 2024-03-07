@@ -1,17 +1,14 @@
-# Color generator Website
+# Star Rating Component
 
 
--Generates random colors across the full spectrum
+-Handels hover reaction
 
--Displays the color code in both HEX and RGB format
-
--Easily copy the codes to the clipboard in single click
+-Displays the user defined rating
 
 
 
 -JavaScript Practice
--Day - 4/30 ✅
+-Day - 5/30 ✅
 
-![demo_img1](image.png)
-![demo_img2](image-1.png)
+![image](https://github.com/Atharva-Karhale/Star-rating/assets/141917763/9ab1f376-4777-49d8-a880-f03df7928d42)
 
